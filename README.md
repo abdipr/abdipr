@@ -24,7 +24,7 @@ Hi there, this is Abdi Putrana Radian. I am 15 years old. I live in Subang, Indo
 <a href='https://code.visualstudio.com/' target="_blank"><img alt='visual studio code' src='https://img.shields.io/badge/VSCode-100000?style=flat-square&logo=visual studio code&logoColor=FFFFFF&labelColor=007ACC&color=007ACC'/></a>
 <img alt='css3' src='https://img.shields.io/badge/CSS3-100000?style=flat-square&logo=css3&logoColor=FFFFFF&labelColor=1572B6&color=1572B6'/>
 <a href='https://mysql.com' target="_blank"><img alt='mysql' src='https://img.shields.io/badge/MySQL-100000?style=flat-square&logo=mysql&logoColor=FFFFFF&labelColor=4479A1&color=4479A1'/></a>
-<a href='' target="_blank"><img alt='cplusplus' src='https://img.shields.io/badge/MySQL-100000?style=flat-square&logo=cplusplus&logoColor=FFFFFF&labelColor=00599C&color=00599C'/></a>
+<a href='' target="_blank"><img alt='cplusplus' src='https://img.shields.io/badge/C++-100000?style=flat-square&logo=cplusplus&logoColor=FFFFFF&labelColor=00599C&color=00599C'/></a>
 <a href='https://python.org' target="_blank"><img alt='python' src='https://img.shields.io/badge/Python-100000?style=flat-square&logo=python&logoColor=FFFFFF&labelColor=3776AB&color=3776AB'/></a>
 <img alt='typescript' src='https://img.shields.io/badge/TypeScript-100000?style=flat-square&logo=typescript&logoColor=FFFFFF&labelColor=3178C6&color=3178C6'/>
 <a href='' target="_blank"><img alt='C' src='https://img.shields.io/badge/C-100000?style=flat-square&logo=C&logoColor=FFFFFF&labelColor=A8B9CC&color=A8B9CC'/></a>

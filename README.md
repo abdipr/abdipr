@@ -16,6 +16,7 @@ Hi there, this is Abdi Putrana Radian. I am 15 years old. I live in Subang, Indo
 <a href='https://www.w3.org/html/logo/' target="_blank"><img alt='html5' src='https://img.shields.io/badge/HTML5-100000?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26&color=E34F26'/></a>
 <a href='https://figma.com' target="_blank"><img alt='figma' src='https://img.shields.io/badge/Figma-100000?style=flat-square&logo=figma&logoColor=white&labelColor=F24E1E&color=F24E1E'/></a>
 <a href='https://figma.com' target="_blank"><img alt='replit' src='https://img.shields.io/badge/Replit-100000?style=flat-square&logo=replit&logoColor=white&labelColor=F26207&color=F26207'/></a>
+<a href='https://cloudflare.com' target="_blank"><img alt='cloudflare' src='https://img.shields.io/badge/Cloudflare-100000?style=flat-square&logo=cloudflare&logoColor=FFFFFF&labelColor=F38020&color=F38020'/></a>
 <img alt='javascript' src='https://img.shields.io/badge/Javascript-100000?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=000000&color=F7DF1E'/>
 <a href='https://nodejs.org' target="_blank"><img alt='node.js' src='https://img.shields.io/badge/Node.js-100000?style=flat-square&logo=node.js&logoColor=FFFFFF&labelColor=339933&color=339933'/></a>
 <a href='https://mongodb.com' target="_blank"><img alt='mongodb' src='https://img.shields.io/badge/MongoDB-100000?style=flat-square&logo=mongodb&logoColor=FFFFFF&labelColor=47A248&color=47A248'/></a>

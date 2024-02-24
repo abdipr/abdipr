@@ -1,10 +1,9 @@
-# About
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=335DDD&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Abdi;I+am+a+programmer;I+do+anything+interesting;Connect+with+me!)](https://git.io/typing-svg)
+# Abdi Putrana Radian
+## About
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=335DDD&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Abdi;I+am+a+programmer;I+do+anything+interesting;Connect+with+me!)](https://git.io/typing-svg)<br>
 Hi there, this is Abdi Putrana Radian. I am 15 years old. I live in Subang, Indonesia. My Hobbies are coding, drawing, listening to musics, and playing some music instruments.
 
-## Personality
-INTJ. I'm quiet, introverted, and a little shy.
-<br>
+## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdiputranar)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@abdipr)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/abdiputranar)

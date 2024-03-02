@@ -1,6 +1,6 @@
 # Abdi Putrana Radian
 ## About
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=335DDD&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Abdi;I+am+a+programmer;I+do+anything+interesting;Connect+with+me!)](https://git.io/typing-svg)<br>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=335DDD&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Abdi;I+am+a+programmer;I+do+anything+interesting;Connect+with+me!)<br>
 Hi there, this is Abdi Putrana Radian. I am 15 years old. I live in Subang, Indonesia. My Hobbies are coding, drawing, listening to musics, and playing some music instruments.
 
 ## Socials
@@ -43,5 +43,5 @@ Hi there, this is Abdi Putrana Radian. I am 15 years old. I live in Subang, Indo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdipr&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdipr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://img.shields.io/github/followers/abdipr)
+![](https://img.shields.io/github/followers/abdipr?style=flat-square&color=335DDD)
 ![](https://komarev.com/ghpvc/?username=abdipr&style=flat)

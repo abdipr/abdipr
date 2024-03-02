@@ -39,9 +39,7 @@ Hi there, this is Abdi Putrana Radian. I am 15 years old. I live in Subang, Indo
 <a href='https://vercel.com' target="_blank"><img alt='vercel' src='https://img.shields.io/badge/Vercel-100000?style=flat-square&logo=vercel&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>
 
 <br>
-![](https://github-readme-stats.vercel.app/api?username=abdipr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdipr&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdipr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abdipr&theme=github-dark-blue)](https://git.io/streak-stats)
+<br>
 ![](https://img.shields.io/github/followers/abdipr?style=flat-square&color=335DDD)
 ![](https://komarev.com/ghpvc/?username=abdipr&style=flat-square)

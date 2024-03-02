@@ -44,4 +44,4 @@ Hi there, this is Abdi Putrana Radian. I am 15 years old. I live in Subang, Indo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdipr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://img.shields.io/github/followers/abdipr?style=flat-square&color=335DDD)
-![](https://komarev.com/ghpvc/?username=abdipr&style=flat)
+![](https://komarev.com/ghpvc/?username=abdipr&style=flat-square)

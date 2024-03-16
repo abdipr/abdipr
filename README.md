@@ -48,6 +48,7 @@ Hi there, this is Abdi Putrana Radian. I am 15 years old. I live in Subang, Indo
 <img src="https://streak-stats.demolab.com/?user=abdipr&theme=github-dark-blue" alt="abdipr's GitHub Streak">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdipr&layout=compact&theme=github_dark&show_icons=true" alt="abdipr's Top Langs">
 <img src="https://github-readme-stats.vercel.app/api?username=abdipr&layout=compact&theme=github_dark&show_icons=true" alt="abdipr's Stats">
+<img src="https://github-profile-trophy.vercel.app/?username=abdipr&theme=tokyonight" alt="abdipr's Trophy">
 </details>
 <a href='https://github.com/abdipr' target="_blank"><img src="https://img.shields.io/github/followers/abdipr?style=flat-square&color=335DDD" alt="GitHub Followers"></a>
 <a href='https://github.com/abdipr' target="_blank"><img src="https://komarev.com/ghpvc/?username=abdipr&style=flat-square" alt="Profile Views"></a>

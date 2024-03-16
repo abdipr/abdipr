@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/assets/abdipr.png" alt="abdipr" width="720">
+<img src="/assets/abdipr.png" alt="abdipr" width="256"><br>
 <a href="https://github.com/abdipr" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=335DDD&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Abdi;I+am+a+programmer;I+do+anything+interesting;Connect+with+me!" alt="Hi there, I'm Abdi"></a><br>
 Hi there, this is Abdi Putrana Radian. I am 15 years old. I live in Subang, Indonesia. My Hobbies are coding, drawing, listening to musics, and playing some music instruments.

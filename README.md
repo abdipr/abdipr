@@ -2,14 +2,14 @@
 <img src="/assets/abdipr.png" alt="abdipr" width="256"><br>
 <a href="https://github.com/abdipr" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=335DDD&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Abdi;I+am+a+programmer;I+do+anything+interesting;Connect+with+me!" alt="Hi there, I'm Abdi"></a><br>
-Hi there, this is Abdi Putrana Radian. I am 15 years old. I live in Subang, Indonesia. My Hobbies are coding, drawing, listening to musics, and playing some music instruments.
+Hi there, this is Abdi Putrana Radian. I am 16 years old. I live in Subang, Indonesia. My Hobbies are coding, drawing, listening to musics, and playing some music instruments.
 </p>
 
 <h2>🌐 Socials</h2>
-<a href="https://instagram.com/abdiputranar" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://youtube.com/@abdipr" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
-<a href="https://twitter.com/abdiputranar" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="Twitter"></a>
-<a href="https://www.tiktok.com/@abdiputranar" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok"></a>
+<a href="https://instagram.com/abdiputranar" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat-square" alt="Instagram"></a>
+<a href="https://youtube.com/@abdipr" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=flat-square" alt="YouTube"></a>
+<a href="https://twitter.com/abdiputranar" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white&style=flat-square" alt="Twitter"></a>
+<a href="https://www.tiktok.com/@abdiputranar" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&style=flat-square" alt="TikTok"></a>
 <a href="https://trakteer.id/abdipr" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="30" style="border: 0px; height: 30px;" alt="Trakteer Saya"></a>
 
 <h2>📚 Tech Stacks</h2>

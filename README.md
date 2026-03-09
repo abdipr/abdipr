@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/abdipr.png" alt="Abdi Putrana Radian" width="220" />
+  <img src="https://abdi.cc/assets/abdi.png" alt="Abdi Putrana Radian" width="220" />
 </p>
 
 <p align="center">
